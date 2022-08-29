@@ -1,4 +1,7 @@
 body {
     text-align: center;
-    background: blueviolet;
+    background: rgb(192, 162, 250);
+}
+.capa {
+    width: 60%;
 }
